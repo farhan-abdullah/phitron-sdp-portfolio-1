@@ -29,3 +29,36 @@ a {
 .banner-img {
   width: 298px;
 }
+.portfolio {
+  margin-inline: 240px;
+}
+.sub-portfolio {
+  border: 1px solid gray;
+  height: 385px;
+}
+.tags {
+  background-color: gray;
+  padding: 5px;
+  border-style: none;
+  border-radius: 5px;
+}
+.my-education {
+  width: 534px;
+}
+.skills {
+  margin-inline: 258px;
+}
+.contact {
+  width: 665px;
+  height: 365px;
+  box-shadow: 5px 10px 8px #808080;
+  border: 1px solid white;
+
+  /* margin-inline: 380px; */
+}
+.input {
+  background-color: #1a1a1a;
+  width: 232px;
+  height: 56px;
+  border: 1px solid gray;
+}
